@@ -5,6 +5,10 @@
 ![Capture d'écran](screenshots/Capture_d_ecran_2026-05-25_095207.png)
 
 ![Capture d'écran](screenshots/Capture_d_ecran_2026-05-25_185846.png)
+## 🎥 Vidéo de démonstration
+
+[Cliquez ici pour voir la vidéo](video/Démo.mp4)
+
 
 ## 👨‍🎓 Étudiants
 
